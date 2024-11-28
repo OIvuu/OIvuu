@@ -1,8 +1,9 @@
-# Hi! My name is Pedro Ivo and I'm a Game Dev, from Brazil!
+# Hi! My name is Pedro Ivo I'm a Game Dev and back-end Dev, from Brazil!
 
 <div align="left">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>      
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width=40 height=40/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=40 height=40/>
+  
 </div>
 
 <div align="center">
