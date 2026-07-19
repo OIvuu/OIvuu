@@ -6,6 +6,4 @@
   
 </div>
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=OIvuu&layout=compact&theme=dracula)
-
-<!-- <img align="right" height="150" src=""  /> -->
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=OIvuu)](https://github.com/stats-organization/github-stats-extended)
