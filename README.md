@@ -6,4 +6,4 @@
   
 </div>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=OIvuu)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=OIvuu&layout=donut&langs_count=3&theme=panda)](https://github-stats-extended.vercel.app/api/top-langs?username=OIvuu&layout=donut&langs_count=3&theme=panda)
